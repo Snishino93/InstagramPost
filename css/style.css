@@ -1,0 +1,74 @@
+.post{
+    border: 1px solid black;
+    max-width: 40%;
+    margin: auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .nombres {
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+  }
+  .fa-brands{
+    font-size: 24px;
+  }
+  
+  .titulo {
+    margin-left: 10px;
+  }
+  .html5{
+    font-weight: bold;
+    margin-top: 10%;
+    padding-top: 10px;
+    margin-bottom: auto;
+  }
+  .rigoberto{
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  .menu {
+    margin-left: auto;
+    margin-right: 4%;
+    font-size: 24px;
+  }
+  
+
+img{
+  width: 100%;
+  height: 100%;
+}
+
+.comment{
+    margin-top: 2%;
+}
+.iconos{
+    display: flex;
+}
+.iconos i{
+    font-size: 24px;
+}
+.iconoIzquierda{
+    margin-left: 2%;
+}
+.iconoDerecha{
+    margin-left: auto;
+    margin-right: 4%;
+}
+
+.likes{
+    margin-left: 2%;
+    margin-right: 4%;
+}
+
+.comentario{
+    margin-left: 2%;
+    margin-right: 4%;
+    margin-bottom: 6%;
+}
